@@ -1,1 +1,6 @@
-# F-tbolAraucan-a-App-
+# FubolAraucania-App
+
+Integrantes:
+
+- Pablo Goméz Quidel
+- Sebastian Muñoz Riquelme
